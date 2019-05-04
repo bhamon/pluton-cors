@@ -1,0 +1,9 @@
+{
+  "name": "pluton-cors",
+  "version": "0.1.0",
+  "description": "Pluton - CORS plugin",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "dependencies": {}
+}
